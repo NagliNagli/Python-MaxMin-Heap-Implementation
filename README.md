@@ -18,7 +18,7 @@ My code snippet is crafted with an interactive user GUI, as you can notice right
 <img src="https://raw.githubusercontent.com/NagliNagli/Python-MaxMin-Heap-Implementation/master/images/USERGUI.png">
 </p>
 
-Supported methods and explantation can be found here: <explantation>
+Supported methods and explantation can be found here: <https://github.com/NagliNagli/Python-MaxMin-Heap-Implementation/blob/master/src/MaxMinHeap%20Implentation.docx>
   
 The code is based on the following paper (which is related to MinMax Heap)
 <http://akira.ruc.dk/~keld/teaching/algoritmedesign_f03/Artikler/02/Atkinson86.pdf>
